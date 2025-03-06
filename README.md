@@ -1,4 +1,4 @@
-PyOfficeRobot项目地址：https://github.com/CoderWanFeng/PyOfficeRobot/tree/main/PyOfficeRobot
+PyOfficeRobot项目地址：https://github.com/CoderWanFeng/PyOfficeRobot/blob/main/README.md
 
 额外参考：https://apifox.com/apiskills/how-to-call-the-deepseek-r1-api-using-python/
 
